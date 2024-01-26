@@ -8,9 +8,3 @@ Overview
 
 Iron-oxo complexes play a crucial role in various biological and chemical processes. Analyzing their dynamic behavior, particularly the factors influencing rebound versus dissociation pathways, is essential for a deeper understanding of these reactions. We leverage machine learning techniques to tackle this challenge, providing new insights into the mechanistic pathways of these complexes.
 
-Repository Structure
-
-
-
-
-
